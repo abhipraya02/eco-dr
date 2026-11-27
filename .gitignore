@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Eco-DR
+data/
+*.pth
+*.onnx
+
+# PyCharm
+.idea/
