@@ -1,0 +1,17 @@
+# Data and images
+numpy
+pandas
+matplotlib
+opencv-python
+albumentations
+scikit-learn
+tqdm
+
+# Deep learning
+torch
+torchvision
+timm
+
+# Notebooks
+jupyter
+ipykernel
